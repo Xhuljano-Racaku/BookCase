@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BookCase</string>
+    <string-array name="books">
+        <item>The Da Vinci Code by Dan Brown</item>
+        <item>Eclipse by Stephenie Meyer</item>
+        <item>The Odissey by Homer</item>
+        <item>Brave New World by Aldous Huxley</item>
+        <item>The Catcher in the Rye by J. D. Salinger</item>
+        <item>The Hobbit by J. R. R. Tolkien</item>
+        <item>Ender\'s Game by Orson Scott Card</item>
+        <item>The Alchemist by Paulo Coelho</item>
+        <item>The Road by Cormac McCarthy</item>
+        <item>The Grapes of Wrath by John Steinbeck</item>
+    </string-array>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+</resources>
